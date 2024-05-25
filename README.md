@@ -2,7 +2,7 @@
     <img src="./assets/original-31669f20cced100c1e16a68a6974b8b4.jpg" width="500"/>
 </p>
 <h1 align="center">SynthToT</h1>
-<h3 align="center">Generate a synthetic dataset for your data through deliberate problem-solving</h3>
+<h3 align="center">Generate synthetic dataset for your training dataset through deliberate problem-solving</h3>
 <h6 align="center"><a href="https://discord.gg/5TesGau62q">Join Mathematics & AI Institute Discord!</a></h6>
 
 <hr>
