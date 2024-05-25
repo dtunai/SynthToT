@@ -77,8 +77,8 @@ When you're ready to contribute code to address an open issue, please follow the
 
     Then you can create and activate a new Python environment by running:
 
-        conda create -n my-package python=3.9
-        conda activate my-package
+        conda create -n synthtot python=3.9
+        conda activate synthtot
 
     Once your virtual environment is activated, you can install your local clone in "editable mode" with
 
@@ -139,7 +139,7 @@ When you're ready to contribute code to address an open issue, please follow the
 
     We also strive to maintain high test coverage, so most contributions should include additions to [the unit tests](https://github.com/allenai/python-package-template/tree/main/tests). These tests are run with [`pytest`](https://docs.pytest.org/en/latest/), which you can use to locally run any test modules that you've added or changed.
 
-    For example, if you've fixed a bug in `my_package/a/b.py`, you can run the tests specific to that module with
+    For example, if you've fixed a bug in `synthtot/a/b.py`, you can run the tests specific to that module with
 
         pytest -v tests/a/b_test.py
 

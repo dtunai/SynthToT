@@ -1,4 +1,4 @@
-# **my-package**
+# **synthtot**
 
 ```{toctree}
 :maxdepth: 2

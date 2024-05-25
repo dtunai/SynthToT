@@ -20,11 +20,11 @@ from datetime import datetime
 
 sys.path.insert(0, os.path.abspath("../../"))
 
-from my_package import VERSION, VERSION_SHORT  # noqa: E402
+from synthtot import VERSION, VERSION_SHORT  # noqa: E402
 
 # -- Project information -----------------------------------------------------
 
-project = "my-package"
+project = "synthtot"
 copyright = f"{datetime.today().year}, Allen Institute for Artificial Intelligence"
 author = "Allen Institute for Artificial Intelligence"
 version = VERSION_SHORT
@@ -84,7 +84,7 @@ typehints_defaults = "comma"
 #
 html_theme = "furo"
 
-html_title = f"my-package v{VERSION}"
+html_title = f"synthtot v{VERSION}"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

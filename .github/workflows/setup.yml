@@ -39,7 +39,7 @@ jobs:
         shell: bash
         run: |
           set -eo pipefail
-          # Check that 'new-package' replaced 'my-package' in some files.
+          # Check that 'new-package' replaced 'synthtot' in some files.
           grep -q 'new-package' pyproject.toml .github/workflows/main.yml .github/CONTRIBUTING.md
           # Check that the new repo URL replaced the old one in some files.
           grep -q 'https://github.com/epwalsh/new-repo' pyproject.toml .github/CONTRIBUTING.md

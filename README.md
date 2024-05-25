@@ -47,8 +47,8 @@ This template repository comes with all of the boilerplate needed for:
     *Then you can create and activate a new Python environment by running:*
 
     ```
-    conda create -n my-package python=3.9
-    conda activate my-package
+    conda create -n synthtot python=3.9
+    conda activate synthtot
     ```
 
 3. Now that you have a suitable Python environment, you're ready to personalize this repository. Just run:
