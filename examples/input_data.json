@@ -1,0 +1,20 @@
+[
+    {
+        "input": "Let n be a positive integer. We start with n piles of pebbles, each initially containing a single pebble. One can perform moves of the following form: choose two piles, take an equal number of pebbles from each pile and form a new pile out of these pebbles. For each positive integer n, find the smallest number of non-empty piles that one can obtain by performing a finite sequence of moves of this form",
+        "perfect_consideration": "",
+        "number": 3,
+        "perspective": "Mathematician"
+    },
+    {
+        "input": "In a controlled experiment, investigate the effects of varying concentrations of a particular enzyme on the rate of a biochemical reaction. Analyze the kinetics of the reaction under different conditions to elucidate enzyme-substrate interactions and determine the optimal conditions for maximum reaction efficiency.",
+        "perfect_consideration": "",
+        "number": 3,
+        "perspective": "Biochemist"
+    },
+    {
+        "input": "Explore the impact of mindfulness meditation on stress reduction among college students. Conduct a randomized controlled trial to compare the effectiveness of mindfulness meditation techniques with traditional stress management strategies.",
+        "perfect_consideration": "",
+        "number": 7,
+        "perspective": "Psychologist"
+    }
+]
