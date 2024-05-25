@@ -167,28 +167,6 @@ python synthtot/synthtot.py \
     --temperature <TEMPERATURE_FLOAT>
 ```
 
-### Creating releases
-
-Creating new GitHub and PyPI releases is easy. The GitHub Actions workflow that comes with this repository will handle all of that for you. All you need to do is follow the instructions in [RELEASE_PROCESS.md](./RELEASE_PROCESS.md).
-
-## Projects using this template
-
-Here is an incomplete list of some projects that started off with this template:
-
-- [ai2-tango](https://github.com/allenai/tango)
-- [cached-path](https://github.com/allenai/cached_path)
-- [beaker-py](https://github.com/allenai/beaker-py)
-- [gantry](https://github.com/allenai/beaker-gantry)
-- [ip-bot](https://github.com/abe-101/ip-bot)
-
-☝️ *Want your work featured here? Just open a pull request that adds the link.*
-
-## FAQ
-
-#### Should I use this template even if I don't want to publish my package?
-
-Absolutely! If you don't want to publish your package, just delete the `docs/` directory and the `release` job in [`.github/workflows/main.yml`](https://github.com/dtunai/SynthToT/blob/main/.github/workflows/main.yml).
-
 ## Contributing
 
 If you find a bug, please open a bug report. If you have an idea for an improvement or new feature :rocket:, please open a [feature request](https://github.com/dtunai/SynthToT/issues/new?assignees=&labels=Feature+request&template=feature_request.md&title=).
