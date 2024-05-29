@@ -7,4 +7,4 @@ langchain-core==0.2.1
 langchain-experimental==0.0.59
 langchain-openai==0.1.7
 langchain-text-splitters==0.2.0
-langchainhub==0.1.16
+langchainhub==0.1.17
